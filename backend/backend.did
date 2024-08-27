@@ -1,0 +1,3 @@
+service : {
+  getWelcomeMessage: () -> (text) query;
+}
